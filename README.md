@@ -2,6 +2,9 @@
 [![Banner-Para-Linked-In-Desarrollador-De-Software-Moderno-Negro.png](https://i.postimg.cc/rmL12y45/Banner-Para-Linked-In-Desarrollador-De-Software-Moderno-Negro.png)]([https://github.com/JoseLuisKoh])
 [![Github Follow](https://img.shields.io/twitch/status/Eladerz1
 )](https://www.twitch.tv/Eladerz1)
+[![Github Follow](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
+)](https://github.com/JoseLuisKoh)
+
 
 
 <!--
