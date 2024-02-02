@@ -5,7 +5,7 @@
 [![Github Follow](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/JoseLuisKoh)
 ## Actividades
-[![Post-de-Facebook-Oferta-de-Empleo-Programador-Web-Digital-Negro-y-Azul.png](https://i.postimg.cc/BQqcYv5F/Post-de-Facebook-Oferta-de-Empleo-Programador-Web-Digital-Negro-y-Azul.png)](https://postimg.cc/PNRwNTRf)
+[![Post-de-Facebook-Oferta-de-Empleo-Programador-Web-Digital-Negro-y-Azul.png](https://i.postimg.cc/XvywGBWR/Post-de-Facebook-Oferta-de-Empleo-Programador-Web-Digital-Negro-y-Azul.png)](https://postimg.cc/R3432FNd)
 
 <!--
 **JoseLuisKoh/JoseLuisKoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
