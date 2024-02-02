@@ -4,7 +4,7 @@
 )](https://www.twitch.tv/Eladerz1)
 [![Github Follow](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/JoseLuisKoh)
-## Unidad 1
+## Actividades
 
 
 <!--
