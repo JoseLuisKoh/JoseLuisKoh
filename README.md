@@ -1,5 +1,7 @@
 ### Hola bienvenido a mi repositorio donde subire actvidades de la materia de Estructura de datos 👋
 [![Banner-Para-Linked-In-Desarrollador-De-Software-Moderno-Negro.png](https://i.postimg.cc/rmL12y45/Banner-Para-Linked-In-Desarrollador-De-Software-Moderno-Negro.png)]([https://github.com/JoseLuisKoh])
+https://img.shields.io/twitch/status/Eladerz1
+
 
 <!--
 **JoseLuisKoh/JoseLuisKoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
